@@ -22,7 +22,7 @@ Media servers generally run 24/7, needs lots of hard drives and often run apps t
 
 PMS requires a bit more elbow grease to setup compared with other solutions but you are in complete control of every aspect of your system and once it's done it will just keep on going for years to come. 
 
-On top of that, the software used is all open source which means you'll never be at the mercy of a companies decision to change tack leaving you locked in to a legacy solution. Furthermore there are no license fees to pay and perhaps best of all, there’s a comprehensive guide on how you can set this up yourself!!
+On top of that, the software used is all open source which means you'll never be at the mercy of a company's decision to change stack leaving you locked in to a legacy solution. Furthermore there are no license fees to pay and perhaps best of all, there’s a comprehensive guide on how you can set this up yourself!!
 
 ## Where do I start?
 
@@ -38,7 +38,7 @@ You can find me on the [Self-Hosted podcast Discord server](https://discord.gg/e
 
 This project was born out of a period in my life between 2011 and 2016 where I discovered network attached storage and lost some important data to a cursed 1.5tb Seagate hard drive. I took a fairly typical journey down the rabbit hole starting out with a Drobo, then a Synology, then unRAID before finally deciding to go it alone and piece together my own solution on top of Linux.
 
-During this period I discovered Linux, the world of open-source and everything that enabled. Open-source has fundamentally changed my life for the better and I now work for Red Hat helping to further that mission. 
+During this period I discovered Linux, the world of open-source and everything that enabled it. Open-source has fundamentally changed my life for the better and I now work for Red Hat helping to further that mission. 
 
 PMS is my own personal project to give back to the community knowledge that so many others helped me learn - life changing skills and knowledge about building and managing my own servers and infrastructure. Thank you if you were one of those who helped me along the way - this site is for you.
 ##
